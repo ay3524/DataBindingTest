@@ -25,3 +25,8 @@
 <li>In your code, you reference and update the data through the binding object, which updates the data, and thus what is displayed in the view.</li>
 <li>Binding views to data sets a foundation for more advanced techniques using data binding.</li>
 </ul> 
+
+<br>
+
+![Data Binding Image](https://github.com/ay3524/DataBindingTest/raw/master/l2-5203sc-alayoutsdata-binding-data-slide.png)<br>
+
