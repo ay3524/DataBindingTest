@@ -30,3 +30,12 @@
 
 ![Data Binding Image](https://github.com/ay3524/DataBindingTest/raw/master/l2-5203sc-alayoutsdata-binding-data-slide.png)<br>
 
+# Steps to acheive
+<ol>
+  <li>Enabling data binding in our build.gradle file in the app module inside the android section:</li>
+  ```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+</ol>
+
