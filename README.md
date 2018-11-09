@@ -15,3 +15,13 @@
 <br>
 
 ![Data Binding Image](https://github.com/ay3524/DataBindingTest/raw/master/4704sc-a-layoutsdata-binding-intro-slide.png)<br>
+
+
+# Data Binding Views and Data
+<ul>
+<li>Updating data and then updating the data displayed in views is cumbersome and a source of errors. Keeping the data in the view also violates separation of data and presentation.</li>
+<li>Data binding solves both of these problems. You keep data in a data class. You add a <data> block to the <layout> to identify the data as variables to use with the views. Views reference the variables.</li> 
+<li>The compiler generates a binding object that binds the views and data.</li>
+<li>In your code, you reference and update the data through the binding object, which updates the data, and thus what is displayed in the view.</li>
+<li>Binding views to data sets a foundation for more advanced techniques using data binding.</li>
+</ul> 
