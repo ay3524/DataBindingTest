@@ -9,7 +9,7 @@
 <ul>
 <li>findViewById is a costly operation because it traverses the view hierarchy every time it is called.</li>
 <li>With data binding enabled, the compiler creates references to all views in a "layout" that have an id, and gathers them in a Binding object.</li>
-<li>In your code, you create an instance of the binding object, and then reference views through the binding object with no extra overhead.</li>
+<li>In our code, we create an instance of the binding object, and then reference views through the binding object with no extra overhead.</li>
 </ul> 
 
 <br>
