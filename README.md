@@ -11,3 +11,7 @@
 <li>With data binding enabled, the compiler creates references to all views in a <layout> that have an id, and gathers them in a Binding object.</li>
 <li>In your code, you create an instance of the binding object, and then reference views through the binding object with no extra overhead.</li>
 </ul> 
+
+<br>
+
+![Data Binding Image](https://github.com/ay3524/DataBindingTest/raw/master/4704sc-a-layoutsdata-binding-intro-slide.png)<br>
